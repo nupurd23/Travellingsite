@@ -1,6 +1,12 @@
 # Travellingsite
 
 Here's a link to my website [MakeYourTrip]()
+
+## Table of contents
+
+1. Front page [Frontpage](code.txt)
+2. About us page [Aboutus](aboutus.html)
+3. Contact us page [contactus](contactus.html)
  
 ## html code for front page
 
