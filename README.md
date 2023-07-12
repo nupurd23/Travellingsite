@@ -5,6 +5,16 @@
 Here's my code to make frontpage [Frontpage code](code.txt)
 
 
+Here's a frontpage view of my website
+
+
+<img src="./frontpagephoto.png"
+     alt="VSC code screensot"
+     style="float: left; margin-right: 10px;" />
+
+
+
+
 ``` 
 <!DOCTYPE html>
 <html lang="en">
