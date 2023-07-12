@@ -328,9 +328,16 @@ Here's a frontpage view of my website
 ```
 
 
-* Here's the code for contact us page [Contact us page](contactus.html)
+* Here's the code for contact us page [About us page](aboutus.html)
 
-### Here's the embedded Data
+Here's a about us page view
+
+<img src="./aboutuspage.png"
+     alt="VSC code screensot"
+     style="float: left; margin-right: 10px;" />
+
+
+### Here's the code for About us page
 ```html
 
 <!DOCTYPE html>
@@ -363,4 +370,73 @@ Here's a frontpage view of my website
 
 ```
 
-* Here's the code for about us page [About us page](aboutus.html)
+* Here's the code for about us page [Contact us page](contactus.html)
+
+Here's a contact us page view
+
+<img src="./contactuspage.png"
+     alt="VSC code screensot"
+     style="float: left; margin-right: 10px;" />
+
+```html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact us</title>
+    <link rel="stylesheet" href="contact.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <!-- <h1>CONTACT US</h1> -->
+<div class="container">
+    <div class="text">
+       Contact us Form
+    </div>
+    <form action="#">
+        <caption>CONTACT US</caption>
+       <div class="form-row">
+          <div class="input-data">
+             <input type="text" required>
+             <div class="underline"></div>
+             <label for="">First Name</label>
+          </div>
+          <div class="input-data">
+             <input type="text" required>
+             <div class="underline"></div>
+             <label for="">Last Name</label>
+          </div>
+       </div>
+       <div class="form-row">
+          <div class="input-data">
+             <input type="text" required>
+             <div class="underline"></div>
+             <label for="">Email Address</label>
+          </div>
+          <div class="input-data">
+             <input type="text" required>
+             <div class="underline"></div>
+             <label for="">Website Name</label>
+          </div>
+       </div>
+       <div class="form-row">
+       <div class="input-data textarea">
+          <textarea rows="8" cols="80" required></textarea>
+          <br />
+          <div class="underline"></div>
+          <label for="">Write your message</label>
+          <br />
+          <div class="form-row submit-btn">
+             <div class="input-data">
+                <div class="inner"></div>
+                <input type="submit" value="submit">
+             </div>
+          </div>
+    </form>
+    </div>
+</body>
+</html>
+
+```     
