@@ -2,7 +2,7 @@
  
 ## html code for front page
 
-Here's my code to make frontpage [Frontpage code](code.txt)
+* Here's my code to make frontpage [Frontpage code](code.txt)
 
 
 Here's a frontpage view of my website
