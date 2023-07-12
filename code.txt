@@ -1,11 +1,5 @@
-# Travellingsite
- 
-## html code for front page
-
-Here's my code to make frontpage [Frontpage code](code.txt)
-
-
 ``` 
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -311,6 +305,7 @@ Here's my code to make frontpage [Frontpage code](code.txt)
 </html>
 
 
-
-
 ```
+
+
+
