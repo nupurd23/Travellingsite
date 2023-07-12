@@ -15,7 +15,7 @@ Here's a frontpage view of my website
 
 
 
-``` 
+```Html
 <!DOCTYPE html>
 <html lang="en">
 
