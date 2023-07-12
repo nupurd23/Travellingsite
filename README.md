@@ -326,7 +326,7 @@ Here's a frontpage view of my website
 
 
 ```
-
+## Here's my code for Aboutus page
 
 * Here's the code for contact us page [About us page](aboutus.html)
 
@@ -369,8 +369,10 @@ Here's a about us page view
 
 
 ```
+## Here's my code for contact us page
 
-* Here's the code for about us page [Contact us page](contactus.html)
+
+* Here's the code for contact us page [Contact us page](contactus.html)
 
 Here's a contact us page view
 
