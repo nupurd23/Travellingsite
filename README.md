@@ -1,4 +1,6 @@
 # Travellingsite
+
+Here's a link to my website [MakeYourTrip]()
  
 ## html code for front page
 
@@ -324,3 +326,6 @@ Here's a frontpage view of my website
 
 
 ```
+
+
+* Here's the code for contact us page [Contact us page](contactus.html)
